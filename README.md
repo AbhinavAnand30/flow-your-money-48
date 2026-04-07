@@ -2,6 +2,10 @@
 
 ExpenseFlow is a personal finance tracker web application that helps users manage daily expenses through a clean and user-friendly interface. Users can add expenses, monitor spending patterns, view summaries, and track their remaining balance through visual charts and dashboard components.
 
+## Live Demo
+
+https://flow-your-money-48.vercel.app
+
 ## Features
 
 - Dashboard with total income, total expenses, and remaining balance
